@@ -10,15 +10,16 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Otavio-Alencar&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
   
 </div>
+<br>
 <div align="center">
   <a href="https://instagram.com/__oalencar__" target="_blank">
-    <img align="center" height="50" width="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
+    <img align="center" height="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
 </a>
   <a href="mailto:oalencardev@gmail.com">
-    <img align="center" heigh="50" width="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
+    <img align="center" heigh="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
   </a>
 </div>
-
+<br>
 <div align = "center">
 
 
