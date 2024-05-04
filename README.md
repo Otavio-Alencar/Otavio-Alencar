@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21997e&height=120&section=header"/>
-<div align="center">
+<div align="center" width=100%>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+mono&size=25&pause=1000&color=21997E&random=false&width=435&lines=Hello%2C+my+name+is+Ot%C3%A1vio+Alencar;I'm+a+front-end+developer;Welcome+to+my+profile)](https://git.io/typing-svg)
 </div>
@@ -48,10 +48,13 @@
 
 </div>
 <br>
-<br>
-<div align="center">
+<div width=100%>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otavio-Alencar&show_icons=true&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otavio-Alencar&show_icons=true&theme=gotham&card_width=520px)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Alencar&theme=gotham&card_width=520px)
 
 </div>
+<br>
+<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=21997e&reversal=true&section=footer"/>
