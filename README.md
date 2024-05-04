@@ -14,7 +14,7 @@
   <a href="https://instagram.com/__oalencar__" target="_blank">
     <img align="center" height="50" width="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
 </a>
-  <a href="mailto:cmp.1a.oalencardev@gmail.com">
+  <a href="mailto:oalencardev@gmail.com">
     <img align="center" heigh="50" width="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
   </a>
 </div>
