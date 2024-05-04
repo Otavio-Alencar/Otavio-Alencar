@@ -13,10 +13,10 @@
 <br>
 <div align="center">
   <a href="https://instagram.com/__oalencar__" target="_blank">
-    <img align="center" height="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
+    <img align="center" height="70" width="70" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
 </a>
   <a href="mailto:oalencardev@gmail.com">
-    <img align="center" heigh="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
+    <img align="center" heigh="70" width="70" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
   </a>
 </div>
 <br>
@@ -26,7 +26,29 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Otavio-Alencar&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+<br>
+<br>
+<div>
+  <div>
+    <h3>Main Skils</h3>
+  </div>
 
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/1a238fa2-b0fc-4608-8a1b-c09b90bd37f1">
+  
+  
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/49a5ee56-352b-4f5d-a9f5-db92482fbfd5">
+  
+  
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/53491767-3a0d-484f-86a5-3b44a0896719">
+  
+ 
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/aa475061-6d32-4ba7-ae9c-2e2027bf2547">
+  
+  
+
+</div>
+<br>
+<br>
 <div align="center">
 
 
