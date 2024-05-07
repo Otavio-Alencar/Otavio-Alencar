@@ -13,10 +13,13 @@
 <br>
 <div align="center">
   <a href="https://instagram.com/__oalencar__" target="_blank">
-    <img align="center" height="70" width="70" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/9411a857-f180-498c-bcdd-261ab93e3014">
+    <img align="center" height="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/0b263cd6-9d2a-40d6-9152-d44f87ce36b5">
 </a>
   <a href="mailto:oalencardev@gmail.com">
-    <img align="center" heigh="70" width="70" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/84a15f73-3819-40f6-8a37-d5c87c86fd8d">
+    <img align="center" heigh="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/adaf2038-b028-4464-868b-5faf9233e0a5">
+  </a>
+  <a>
+    <img align="center" height="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/63ddce75-82d8-44d5-9033-134e13f77951">
   </a>
 </div>
 <br>
