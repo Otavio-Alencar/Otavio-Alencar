@@ -36,16 +36,16 @@
     <h3>Main Skils</h3>
   </div>
 
-  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/1a238fa2-b0fc-4608-8a1b-c09b90bd37f1">
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/2249a000-ce75-4b21-998b-0481f789ad7b">
   
   
-  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/49a5ee56-352b-4f5d-a9f5-db92482fbfd5">
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/d641150c-8924-4a07-8c35-d3c108f00965">
   
   
-  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/53491767-3a0d-484f-86a5-3b44a0896719">
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/f7d06c6d-912d-4d2a-8bcc-78a6257c49d1">
   
  
-  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/aa475061-6d32-4ba7-ae9c-2e2027bf2547">
+  <img align="center" width="50" height="50" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/2aa31f2b-b6d1-4dff-8ff9-f84f226f836b">
   
   
 
