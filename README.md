@@ -10,6 +10,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Otavio-Alencar&theme=nord&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
   
 </div>
+
 <br>
 <div align="center">
   <a href="https://instagram.com/__oalencar__" target="_blank">
@@ -23,6 +24,7 @@
   </a>
 </div>
 <br>
+<br>
 <div align = "center">
 
 
@@ -30,7 +32,7 @@
 
 </div>
 <br>
-<br>
+
 <div>
   <div>
     <h3>Main Skils</h3>
