@@ -7,7 +7,7 @@
 <br>
 <div align = "center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Otavio-Alencar&theme=gotham&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Otavio-Alencar&theme=nord&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
   
 </div>
 <br>
@@ -23,7 +23,7 @@
 <div align = "center">
 
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Otavio-Alencar&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Otavio-Alencar&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <br>
@@ -51,9 +51,9 @@
 <div width=100%>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otavio-Alencar&show_icons=true&theme=gotham&card_width=520px)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otavio-Alencar&show_icons=true&theme=nord&card_width=520px)
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Alencar&theme=gotham&card_width=520px)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Alencar&theme=nord&card_width=520px)
 
 </div>
 <br>
