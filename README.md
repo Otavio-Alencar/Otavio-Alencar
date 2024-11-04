@@ -19,7 +19,7 @@
   <a href="mailto:oalencardev@gmail.com">
     <img align="center" heigh="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/adaf2038-b028-4464-868b-5faf9233e0a5">
   </a>
-  <a href="https://www.linkedin.com/in/otávio-alencar/">
+  <a href="www.linkedin.com/in/otavioalencar">
     <img align="center" height="60" width="60" src="https://github.com/Otavio-Alencar/Otavio-Alencar/assets/168689068/63ddce75-82d8-44d5-9033-134e13f77951">
   </a>
 </div>
